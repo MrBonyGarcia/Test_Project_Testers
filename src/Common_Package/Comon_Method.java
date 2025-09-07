@@ -9,6 +9,9 @@ public class Comon_Method {
 		System.out.println("this is Added by Div- 1st Pull 1st Push");
 
 		System.out.println("this is Added by Bony-2nd Pull 2nd Push");
+		
+		System.out.println("this is Added by Div >>>>");
+
 
 	}
 }
