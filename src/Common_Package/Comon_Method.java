@@ -5,5 +5,7 @@ public class Comon_Method {
 	public void CommonMethod() 
 	{
 		System.out.println("Added By Bony");
+		System.out.println("1st Pull By Bony");
+
 	}
 }
